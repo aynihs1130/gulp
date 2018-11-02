@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+.temp
+.token.json
+valid
+.gitmodules
+npm-debug.log
